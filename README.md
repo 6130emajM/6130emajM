@@ -5,7 +5,6 @@ Hi, I'm **Martavis James** 👋
 I’m an aspiring software engineer and creative technologist with a passion for building innovative projects that merge **tech and creativity**. Currently learning full-stack development and exploring exciting areas like game development, web3, and design systems.
 
 🎓 I’m studying at **Coding Temple** and learning **Python**, **JavaScript**, **React**, **SQL**, and **more**!  
-🔭 Building **Cognizarium**, a spiritual-tech-creative universe, combining my love for **technology**, **creativity**, and **visionary design**.  
 🌱 I’m exploring full-stack development and excited to apply my skills to real-world projects.  
 👯 I’m looking to collaborate on **Game Development**, **Web3 Projects**, **Apps**, and **Design Systems**.  
 💡 My motto: *Engineer by logic, Creator by soul, Visionary by design.*
@@ -45,15 +44,11 @@ You can reach out to me on my social media platforms or directly via email:
 
 ---
 
-## 🖥️ GitHub Stats
-![Martavis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=6130emajM&show_icons=true&hide_title=true&hide=prs&count_private=true)
-
----
-
 ## 🤝 Open Source Contributions
 I'm always excited to collaborate and contribute to open-source projects. If you're working on something and need help, feel free to reach out!
 
 ---
 
 *Thanks for checking out my GitHub! Stay tuned for more projects coming soon!*
+
 
