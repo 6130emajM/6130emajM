@@ -4,7 +4,8 @@
 Hi, I'm **Martavis James** 👋  
 I’m an aspiring software engineer and creative technologist with a passion for building innovative projects that merge **tech and creativity**. Currently learning full-stack development and exploring exciting areas like game development, web3, and design systems.
 
-🎓 I’m studying at **Coding Temple** and learning **Python**, **JavaScript**, **React**, **SQL**, and **more**!  
+🎓 I graduated from **Harvard University** in 2024 with a focus on Computer Science.  
+🎓 I’m currently completing my **Software Engineering Program** at **Coding Temple** and learning **Python**, **JavaScript**, **React**, **SQL**, and more!  
 🌱 I’m exploring full-stack development and excited to apply my skills to real-world projects.  
 👯 I’m looking to collaborate on **Game Development**, **Web3 Projects**, **Apps**, and **Design Systems**.  
 💡 My motto: *Engineer by logic, Creator by soul, Visionary by design.*
@@ -29,8 +30,8 @@ Here are some of the technologies I’m currently working with:
 ---
 
 ## 📚 Education
-- **Harvard University** – Computer Science (Expected 2024)  
-- **Coding Temple** – Software Engineering Program (Expected 2025)
+- **Harvard University** – Computer Science, Graduated in 2024  
+- **Coding Temple** – Software Engineering Program, Graduating in 2025
 
 ---
 
@@ -50,5 +51,6 @@ I'm always excited to collaborate and contribute to open-source projects. If you
 ---
 
 *Thanks for checking out my GitHub! Stay tuned for more projects coming soon!*
+
 
 
