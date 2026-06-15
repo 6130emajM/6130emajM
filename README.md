@@ -29,9 +29,7 @@ Here are some of the technologies I’m currently working with:
 
 ---
 
-## 📚 Education
-- **Harvard University** – Computer Science, Graduated in 2024  
-- **Coding Temple** – Software Engineering Program, Graduating in 2025
+- **Coding Temple** – Software Engineering Program, Graduating in 2026
 
 ---
 
